@@ -1,0 +1,31 @@
+td {white-space: nowrap;}
+
+/* Sortable tables */
+table.sortable thead {
+    background-color:#eee;
+    color:#666666;
+    font-weight: bold;
+    cursor: default;
+}
+
+th {
+	font: bold 15px Verdana, Arial, Helvetica,
+	sans-serif;
+	color: #6D929B;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 6px 6px 6px 12px;
+	background: #CAE8EA url(images/bg_header.jpg) no-repeat;
+}
+
+/* Properties that both side lists have in common */
+
+#left {
+  position: absolute;
+  width: 10px;
+  height: 100%;
+}
+#right {
+  margin-left: 70px;
+}

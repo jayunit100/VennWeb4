@@ -1,0 +1,6 @@
+Current state : Airplane refactoring complete.
+
+To do : Test refactoring.
+
+To do : Add homology search VIA ebi function 
+	Modify the 
